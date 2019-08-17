@@ -25,7 +25,7 @@ namespace Military_Unit
         }
         public virtual void PrepareForTheRange()
         {
-            Console.WriteLine($"\nThe {rank} goes to range...");
+            Console.WriteLine($"\nThe {rank} goes to the range...");
         }
         public virtual void PrepareForTravel()
         {
