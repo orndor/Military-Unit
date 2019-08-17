@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+
+//This CS file contains the Vehicle class and all sub-classes (different types of vehicles).
 
 namespace Military_Unit
 {
-
-    //This CS file contains the Vehicle class and all sub-classes; Weapons is an abstract class due to weapon "Capacity"
-
     class Vehicles
     {
         protected enum ModelName

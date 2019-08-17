@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 namespace Military_Unit
 {
     class Program
